@@ -1,0 +1,10 @@
+streamlit
+pandas
+plotly
+numpy
+matplotlib
+seaborn
+streamlit-extras
+streamlit-card
+altair
+pillow 
